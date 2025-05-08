@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/KUMAR/IdeaProjects/APITestingDemo/src/test/java/catDummy/dummyTest.java">
         <classes>
-            <class name="catDummy.dummyTest">
+            <class name="catDummy.LaptopTest">
                 <methods><include name="getLaptopDetails"/></methods>
             </class>
         </classes>
